@@ -8,7 +8,6 @@ How to Login Your Frontier Account?
 ----------------------------------
 For Login Frontier Account
 
-----------------
 Visit: https://aclogportal.com/frontier-login
 
 -------------------
